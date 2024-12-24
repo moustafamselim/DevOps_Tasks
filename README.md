@@ -7,7 +7,7 @@
 * Check whether that user has a routable, FQDN email address.
 * If so, write a message to stdout like:
 
-            The $ID of $EMAIL is (even|odd) number. 
+  > The $ID of $EMAIL is (even|odd) number. 
 * If the user has no valid email address OR user ID, the script should silently continue the next user 
   showing a warning for the invalid parameters The content of the 
 
