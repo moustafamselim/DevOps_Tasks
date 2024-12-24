@@ -20,7 +20,7 @@
         Bert, bert_bb23@localhost, 150 
 
 ## Result
-![Script](URL "title")
+![Script](https://github.com/moustafamselim/DevOps_Tasks/blob/c59324f6747ca63e9ba3e66d4a90320e5aa735cb/Scripting/Email%26User.png)
 
 
 ___
@@ -35,7 +35,7 @@ Using tools and environments of your choice, create...
     >- Document creating of cluster and all needed access rights in git repository. 
 
 ## Result
-![CP&W](URL "title")
+![CP&W](https://github.com/moustafamselim/DevOps_Tasks/blob/c59324f6747ca63e9ba3e66d4a90320e5aa735cb/Kubernetes/K8S_CP%2BW.png)
 
 * On the Kubernetes cluster:
    >- Deploy nginx ingress - https://github.com/kubernetes/ingress-nginx/. 
@@ -44,7 +44,7 @@ Using tools and environments of your choice, create...
    >- Expose “Juice Shop” application to outside the cluster using the nginx ingress.
 
 ## Result
-![juice-shop](URL "title")
+![juice-shop](https://github.com/moustafamselim/DevOps_Tasks/blob/c59324f6747ca63e9ba3e66d4a90320e5aa735cb/Kubernetes/juice-shop.png)
 
 
 
@@ -65,7 +65,7 @@ ___
         Set the entry point to newman 
 
 ## Result
-![newman](URL "title")
+![newman](https://github.com/moustafamselim/DevOps_Tasks/blob/c59324f6747ca63e9ba3e66d4a90320e5aa735cb/Docker/Docker-Run.png)
 
 
 
