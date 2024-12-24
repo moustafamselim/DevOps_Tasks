@@ -20,7 +20,7 @@
         Bert, bert_bb23@localhost, 150 
 
 ## Result
-![alt](URL "title")
+![Script](URL "title")
 
 
 ___
@@ -35,7 +35,7 @@ Using tools and environments of your choice, create...
     >- Document creating of cluster and all needed access rights in git repository. 
 
 ## Result
-![alt](URL "title")
+![CP&W](URL "title")
 
 * On the Kubernetes cluster:
    >- Deploy nginx ingress - https://github.com/kubernetes/ingress-nginx/. 
@@ -44,7 +44,7 @@ Using tools and environments of your choice, create...
    >- Expose “Juice Shop” application to outside the cluster using the nginx ingress.
 
 ## Result
-![alt](URL "title")
+![juice-shop](URL "title")
 
 
 
@@ -65,7 +65,7 @@ ___
         Set the entry point to newman 
 
 ## Result
-![alt](URL "title")
+![newman](URL "title")
 
 
 
