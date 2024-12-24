@@ -1,4 +1,4 @@
-# Kubernetes Cluster (Control-plane)
+# <ins>Kubernetes Cluster (Control-plane)</ins>
 ### update & upgrade
     sudo apt update
     sudo apt -y full-upgrade
@@ -178,7 +178,7 @@ Status: inactive
 
 ___
 
-# Kubernetes Cluster (Worker-node)
+# <ins>Kubernetes Cluster (Worker-node)</ins>
 ### update & upgrade
     sudo apt update
     sudo apt -y full-upgrade
